@@ -22,7 +22,7 @@ echo "╚═══════════════════════�
 echo -e "${NC}"
 
 # URL del archivo
-GITIGNORE_URL="https://raw.githubusercontent.com/alafourcadev/ultimate-gitignore/main/.gitignore_global"
+GITIGNORE_URL="https://raw.githubusercontent.com/alafourcadev/ultimate-gitignore/master/.gitignore_global"
 
 # Función para detectar OS
 detect_os() {
