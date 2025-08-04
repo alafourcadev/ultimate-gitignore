@@ -11,7 +11,7 @@
 [![Platform](https://img.shields.io/badge/platform-macOS%20|%20Linux%20|%20Windows-lightgrey)](https://github.com/alafourcadev/ultimate-gitignore)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[📖 Lee el Artículo](https://medium.com/@alafourcadev) | [🚀 Instalación](#-instalación-rápida) | [📊 Impacto Real](#-el-impacto-real)
+[📖 Lee el Artículo]([https://medium.com/@alafourcadev](https://medium.com/@alafourcadev/oye-tenemos-que-hablar-sobre-tu-gitignore-est%C3%A1-mal-y-te-voy-a-demostrar-por-qu%C3%A9-ba988e612302)) | [🚀 Instalación](#-instalación-rápida) | [📊 Impacto Real](#-el-impacto-real)
 
 </div>
 
